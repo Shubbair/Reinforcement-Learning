@@ -1,2 +1,3 @@
-# Reinforcement-Learning
-bb
+# Reinforcement Learning
+
+Deep Reinforcement Learning examples.
